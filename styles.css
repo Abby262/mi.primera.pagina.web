@@ -11,6 +11,12 @@ main {
   min-height: 71vh;
 }
 
+.greeting {
+   text-align: center;
+}
+
+
+
 .container {
   max-width: 800px;
   margin: auto;
